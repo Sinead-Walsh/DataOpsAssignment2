@@ -1,0 +1,85 @@
+These results were downloaded and refreshed on April     29, 2023 at 6:08 a.m. ET. / Ces résultats ont été téléchargés et rafraichis le 29 avril 2023 à 6h08 HE.													
+Electoral district number - Numéro de la circonscription	Electoral district name	Nom de la circonscription	Type of results*	Type de résultats**	Surname - Nom de famille	Middle name(s) - Autre(s) prénom(s)	Given name - Prénom	Political affiliation	Appartenance politique	Votes obtained - Votes obtenus	% Votes obtained - Votes obtenus %	Rejected ballots - Bulletins rejetés***	Total number of ballots cast - Nombre total de votes déposés
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Al-Sudani		Khaled	People's Party - PPC	Parti populaire - PPC	288	1.2	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Anderson		Mélodie	Independent	Indépendant(e)	29	.1	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Beaulieu		Myriam	Independent	Indépendant(e)	16	.1	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Bonneau		Mylène	Independent	Indépendant(e)	9	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Boudreault		Jean-Denis Parent	Independent	Indépendant(e)	8	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Bélanger		Line	Independent	Indépendant(e)	8	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Carroll		Jevin David	Independent	Indépendant(e)	11	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Carson		Sean	Independent	Indépendant(e)	57	.2	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Chhinzer		Ron	Conservative	Conservateur	9264	37.4	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	CoRhino		Sébastien	Parti Rhinocéros Party	Parti Rhinocéros Party	24	.1	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Currie		Charles	Independent	Indépendant(e)	44	.2	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Davis		Stephen	Independent	Indépendant(e)	21	.1	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Dejewski		Mark	Independent	Indépendant(e)	11	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Dupont		Ysack	Independent	Indépendant(e)	2	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Eckstrom		Donovan	Independent	Indépendant(e)	5	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Engering		Alexandra	Independent	Indépendant(e)	8	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Gagnon		Daniel	Independent	Indépendant(e)	7	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Gagnon		Donald	Independent	Indépendant(e)	5	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Hildebrandt		Kerri	Independent	Indépendant(e)	9	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	House		Peter	Independent	Indépendant(e)	27	.1	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Jubinville		Martin Acetaria Caesar	Independent	Indépendant(e)	3	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Jubinville		Samuel	Independent	Indépendant(e)	8	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Kidnew		Mary	Green Party	Parti Vert	779	3.1	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Kole		Julia	NDP-New Democratic Party	NPD-Nouveau Parti démocratique	1213	4.9	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Lamontagne		Alain	Independent	Indépendant(e)	1	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	LeBel		Marie-Hélène	Independent	Indépendant(e)	17	.1	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Lukawski		Conrad	Independent	Indépendant(e)	32	.1	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Rocchi		Spencer	Independent	Indépendant(e)	12	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Rosenblum		Eliana	Independent	Indépendant(e)	17	.1	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Selody		Julian	Independent	Indépendant(e)	11	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Sherwood		Roger	Independent	Indépendant(e)	14	.1	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Smith		Adam	Independent	Indépendant(e)	22	.1	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Sousa		Charles	Liberal	Libéral	12687	51.2	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	St-Amand		Julie	Independent	Indépendant(e)	11	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	St-Amand		Pascal	Independent	Indépendant(e)	2	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Strzalkowski		Patrick	Independent	Indépendant(e)	36	.1	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Szuchewycz		Tomas	Independent	Indépendant(e)	11	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Teichman		Ben	Independent	Indépendant(e)	10	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Turmel		John The Engineer	Independent	Indépendant(e)	15	.1	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	preliminary	préliminaires	Vanderwater		Darcy Justin	Independent	Indépendant(e)	6	0	0	24760
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Al-Sudani		Khaled	People's Party - PPC	Parti populaire - PPC	293	1.2	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Anderson		Mélodie	Independent	Indépendant(e)	29	.1	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Beaulieu		Myriam	Independent	Indépendant(e)	16	.1	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Bonneau		Mylène	Independent	Indépendant(e)	9	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Boudreault		Jean-Denis Parent	Independent	Indépendant(e)	7	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Bélanger		Line	Independent	Indépendant(e)	8	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Carroll		Jevin David	Independent	Indépendant(e)	12	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Carson		Sean	Independent	Indépendant(e)	48	.2	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Chhinzer		Ron	Conservative	Conservateur	9215	37.1	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	CoRhino		Sébastien	Parti Rhinocéros Party	Parti Rhinocéros Party	24	.1	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Currie		Charles	Independent	Indépendant(e)	44	.2	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Davis		Stephen	Independent	Indépendant(e)	21	.1	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Dejewski		Mark	Independent	Indépendant(e)	11	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Dupont		Ysack	Independent	Indépendant(e)	2	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Eckstrom		Donovan	Independent	Indépendant(e)	5	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Engering		Alexandra	Independent	Indépendant(e)	8	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Gagnon		Daniel	Independent	Indépendant(e)	7	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Gagnon		Donald	Independent	Indépendant(e)	5	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Hildebrandt		Kerri	Independent	Indépendant(e)	9	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	House		Peter	Independent	Indépendant(e)	31	.1	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Jubinville		Martin Acetaria Caesar	Independent	Indépendant(e)	3	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Jubinville		Samuel	Independent	Indépendant(e)	8	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Kidnew		Mary	Green Party	Parti Vert	792	3.2	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Kole		Julia	NDP-New Democratic Party	NPD-Nouveau Parti démocratique	1231	5	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Lamontagne		Alain	Independent	Indépendant(e)	1	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	LeBel		Marie-Hélène	Independent	Indépendant(e)	17	.1	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Lukawski		Conrad	Independent	Indépendant(e)	23	.1	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Rocchi		Spencer	Independent	Indépendant(e)	12	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Rosenblum		Eliana	Independent	Indépendant(e)	17	.1	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Selody		Julian	Independent	Indépendant(e)	10	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Sherwood		Roger	Independent	Indépendant(e)	14	.1	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Smith		Adam	Independent	Indépendant(e)	23	.1	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Sousa		Charles	Liberal	Libéral	12766	51.4	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	St-Amand		Julie	Independent	Indépendant(e)	11	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	St-Amand		Pascal	Independent	Indépendant(e)	2	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Strzalkowski		Patrick	Independent	Indépendant(e)	38	.2	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Szuchewycz		Tomas	Independent	Indépendant(e)	12	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Teichman		Ben	Independent	Indépendant(e)	10	0	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Turmel		John The Engineer	Independent	Indépendant(e)	14	.1	135	24949
+35061	Mississauga--Lakeshore	Mississauga--Lakeshore	validated	validés	Vanderwater		Darcy Justin	Independent	Indépendant(e)	6	0	135	24949
+*Type of results: preliminary results are unofficial results from election night; validated results are official results validated by each returning officer; judicially certified results are official results validated by a judge following a judicial recount.													
+**Type de résultats : les résultats préliminaires sont les résultats non officiels du soir d'élection; les résultats validés sont les résultats officiels validés par le directeur du scrutin; les résultats de dépouillement judiciaire sont les résultats officiels validés par un juge après un dépouillement judiciaire.													
+***The rejected ballots count is not available for the preliminary results. / Le nombre de bulletins de vote rejetés n'est pas disponible pour les résultats préliminaires.													
